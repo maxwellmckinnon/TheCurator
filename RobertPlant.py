@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 import os
 import time
-
+import sys
+sys.path.append("instabot")
 from src import InstaBot
 from src.check_status import check_status
 from src.feed_scanner import feed_scanner
