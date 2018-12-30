@@ -15,6 +15,8 @@ import time
 def download_photo(keywords="Interesting Plants", offset=0):
     """
     Use google_images_download to download one image and return the path to it
+
+    ISSUE: google image downloader fails often for offsets over 100
     :return:
     """
     tmpdir = tempfile.mkdtemp()
