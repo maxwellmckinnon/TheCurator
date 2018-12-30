@@ -2,18 +2,17 @@
 # -*- coding: utf-8 -*-
 import os
 import time
-import sys
-sys.path.append("instabot")
-from src import InstaBot
-from src.check_status import check_status
-from src.feed_scanner import feed_scanner
-from src.follow_protocol import follow_protocol
-from src.unfollow_protocol import unfollow_protocol
 
-from secrets import password_string  # yeah baby...
+from instabot.src import InstaBot
+from instabot.src.check_status import check_status
+from instabot.src.feed_scanner import feed_scanner
+from instabot.src.follow_protocol import follow_protocol
+from instabot.src.unfollow_protocol import unfollow_protocol
+
+from IG_secrets import username_string, password_string  # yeah baby...
 
 bot = InstaBot(
-    login="lovetheseplants",
+    login=username_string,
     password=password_string,
     like_per_day=5,
     comments_per_day=1,
