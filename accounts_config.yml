@@ -1,0 +1,58 @@
+---
+# Requires a supplement password secret manager, not in git
+curling_highlights:
+  account_name: curl_me_harder
+  password:
+  email: max97230+curlinghard@gmail.com
+  ig_hashtags: "#curling #worldcurling #olympics #canada #belgium #USA #curlers #curlsgetthegirls #HurryHard #CurlTheFuckingShitOutOfIt #WtfPhysics #StrangePhysics #WhyTheFDontItCurl #CurlMagic #24CarotCurls #girlswithcurls #cominginhot #CurlingShots"
+  google_search_keywords: Amazing curling shots ice
+  google_search_additional_arguments:
+    size: ">800*600"
+  comments: Curling Highlights
+music_puns:
+  account_name: dont_be_haydn
+  password:
+  email: max97230+funny_music_dailies@gmail.com
+  ig_hashtags: "#MusicPuns #FunnyMan #TromboneGentleman #TrumpetAsshole #BanjoJackass #GuitarNoodleHead #GoodLaughs #USA #Canada #Germany #Mexico #Bach #Lizst #Haydn #Amadeus #Stravinsky #Wagner #Chopin #Beethoven #PoorMusician #PoorMusicians #MusicJokes #MusicianJokes"
+  google_search_keywords: Funny music puns
+  google_search_additional_arguments:
+  comments: Music puns
+plants:
+  account_name: lovetheseplants
+  password:
+  email: max97230+loveplants@gmail.com
+  ig_hashtags: "#plantsofinstagram #plantsmakepeoplehappy #orchid #orchids #orchidsofinstagram #instaorchid #wild #wildlifeplanet #plantlivesmatter #plantlove #plantatree #plant #plants #beautiful #nature #majestic #magical #spiritual #somethinglargerthanus #wecandothistogeter #stadnupforourplanet #reuse #healthyearth #sustainabilechoices #longtermplanet #Interesting #InterestingPlants #AmazingPlants"
+  google_search_keywords: Interesting plants
+  google_search_additional_arguments:
+    color: green
+    size: ">800*600"
+  comments: Interesting plants
+dogs_in_tiny_hats:
+  account_name: dogs_in_tiny_hats
+  password:
+  email: max97230+dogs_tiny_hats@gmail.com
+  ig_hashtags: "#dogs #dog #dogsinhats #dogsintinyhats #dogs_in_hats #tinyhats #hats #cute #cutedog #cuteanimals #animals #love #worldpeace #InterestingDogs"
+  google_search_keywords: Dogs in tiny hats
+  google_search_additional_arguments:
+  comments: Dogs in tiny hats
+bottingham_art:
+  account_name: lord_bottingham_iii
+  password:
+  email: max97230@gmail.com
+  ig_hashtags: "#algorithm #algorithmicArt #ComputerScience #Fractal #Fractals #Beautiful #Wild #Mathematics #PureMathematics #Beauty #MotherTruckingArt #HolyCOW"
+  google_search_keywords: fragmentarium art beautiful
+  google_search_additional_arguments:
+  comments: Bot rendered artwork, curated for now
+
+#  Accounts
+#  Bot generated content
+#Bot artwork: lord_bottingham_iii max97230@gmail.com
+#Bot II artwork: eddie_van_hailing max97230+123@gmail.com
+#Bot III music: johann_sebastian_bot max97230+johann_sebastian_bot@gmail.com
+#Chess play: paying_by_check max97230+chesschecks@gmail.com
+#
+#  Bot curated content
+#Curling highlights: Curl_me_harder max97230+curlinghard@gmail.com
+#Dogs in Tiny hats: dogs_in_tiny_hats
+#Music Puns: dont_be_haydn max97230+funny_music_dailies@gmail.com
+#Plants: lovetheseplants max97230@gmail.com

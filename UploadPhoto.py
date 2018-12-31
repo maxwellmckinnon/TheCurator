@@ -5,10 +5,7 @@
 
 from InstagramAPI import InstagramAPI
 
-from IG_secrets import username_string, password_string  # yeah baby...
-
-
-def upload_photo(photo_path, caption):
+def upload_photo(photo_path, caption, username_string, password_string):
     IGAPI = InstagramAPI(username_string, password_string)
     IGAPI.login()  # login
     IGAPI.uploadPhoto(photo_path, caption=caption)
